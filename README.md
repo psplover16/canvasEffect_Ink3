@@ -1,2 +1,2 @@
 # canvasEffect_Ink3
-水霧特效3
+水墨特效3
